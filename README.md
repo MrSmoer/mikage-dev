@@ -48,7 +48,7 @@ You'll need to `source conanrun.sh` to set up library directories.
 * WASD keys: Circle pad
 * Backspace: HOME (press twice to power down)
 * Q key: L
-* E key: L
+* E key: R
 * IJKL keys: D-pad
 
 ## Debugging
